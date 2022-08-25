@@ -12,6 +12,8 @@ namespace MyConsoleApp1
         {
             Console.WriteLine("Hello world");
             Console.WriteLine("Hello world 3");
+            Console.WriteLine("Hello world 1 - assignment 3");
+            Console.WriteLine("Hello world 1 - assignment 3, 2nd");
         }
     }
 }
